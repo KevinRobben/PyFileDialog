@@ -1,0 +1,6 @@
+PyFileDialog.py
+setup.py
+pyfiledialog.egg-info/PKG-INFO
+pyfiledialog.egg-info/SOURCES.txt
+pyfiledialog.egg-info/dependency_links.txt
+pyfiledialog.egg-info/top_level.txt
